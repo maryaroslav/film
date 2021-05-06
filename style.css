@@ -1,0 +1,40 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background-color: black;
+}
+
+.continer {
+    color: white;
+}
+
+
+.my-love-film {
+    text-align: center;
+}
+
+.Tomiron {
+    text-align: center;
+}
+
+.description-film {
+    float:left; 
+    margin-left: 100px;
+}
+
+.about-the-film {
+    float:left; 
+    margin-left: 700px;
+}
+
+.triler-continer {
+
+}
+
+.photo-continer {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.photo {
+    border-radius: 10px;
+}
